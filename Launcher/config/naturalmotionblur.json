@@ -1,8 +1,0 @@
-{
-  "motionBlurStrength": 1.0,
-  "motionBlurSamples": 20,
-  "blurAlgorithm": "CENTERED",
-  "renderF5": true,
-  "enabled": true,
-  "toggleKey": 86
-}
