@@ -1,7 +1,0 @@
-{
-  "interval": 0,
-  "maxAttempts": 0,
-  "afkDelay": 1,
-  "mode": "MANUAL",
-  "logging": "ENABLED"
-}
